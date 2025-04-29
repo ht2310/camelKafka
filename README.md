@@ -34,3 +34,6 @@ cd kafka-camel-ui
 npm install
 ng serve
 This will start the Angular development server. Visit http://localhost:4200 to access the UI.
+
+NOTE:
+for output file please use specific path.
